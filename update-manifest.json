@@ -1,11 +1,19 @@
 {
   "version": "0.1.3",
-  "notes": "Test release 0.1.3 - password-protected .7z updater integration",
-  "pub_date": "2026-06-23T14:49:44.635Z",
+  "notes": "v0.1.3 Example Update Metadata.",
+  "pub_date": "2026-06-23T00:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0xnT0NJQkMvUHdGUkxONFBwMU5BVFN0S0ZjNWwyU1h2d00xRndzT21aU0Zmakx3ZFdGcCt2VDFEcm5wQUtoQ2pIWFE1TFQ2WjZ0ZHlYanZlZVJ1NVBYajNjTndvU1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjI2MTI0CWZpbGU6QWhtZWQtQ2xpcHBlcl8wLjEuM194NjQtc2V0dXAuZXhlCkZKZGowb3NRV1plNjZzZUdWU25KR2VXSjYvWHpDcFlBcmI3bFVOMVdmbzQyUjdhZ3N2c3pXckRFbXpaQTdzZ2FTT3FUbnE5Uk95Z1R3ZWUrL2owTUJnPT0K",
-      "url": "https://github.com/ramhaidar/ACYT/releases/download/v0.1.3/Ahmed-Clipper_0.1.3_x64-setup.7z"
+      "url": "https://raw.githubusercontent.com/ramhaidar/ACYT/refs/heads/main/Ahmed-Clipper_0.1.3_x64-setup.7z"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0xnT0NJQkMvUHdG...[Sample Signature]...",
+      "url": "https://raw.githubusercontent.com/ramhaidar/ACYT/refs/heads/main/Ahmed-Clipper_0.1.3_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0xnT0NJQkMvUHdG...[Sample Signature]...",
+      "url": "https://raw.githubusercontent.com/ramhaidar/ACYT/refs/heads/main/ahmed-clipper_0.1.3_amd64.AppImage"
     }
   }
 }
