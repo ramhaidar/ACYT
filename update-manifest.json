@@ -1,15 +1,15 @@
 {
-  "version": "0.1.3",
-  "notes": "Release v0.1.3",
-  "pub_date": "2026-06-25T13:11:45.214Z",
+  "version": "0.1.4",
+  "notes": "Release v0.1.4",
+  "pub_date": "2026-06-26T13:23:51.123Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc1dWQkhzL21wLzEyNFdOWUlURmFPcHlNQi9Cc09BUStBMFJIQjFTcVkvUzNXYzVlcVVCRENUZ1h1U3lxVklpZWxZOVhnOGEzYndFemlScWpnZ0hJOXNQYVNBTmUxUndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzkwODQ2CWZpbGU6QWhtZWQtQ2xpcHBlcl8wLjEuM194NjQtc2V0dXAuZXhlCjZoSHBYcG13c1dTSnNjUFdWZjNoaktCYTVUK1RqRk5mQjNlNVE0T1c2MklNYmZpVVhGemN3TzdwSXZ0MkozbTFSNkV5b2lwYU9lKzZTUWd4WmFabERBPT0K",
-      "url": "https://github.com/ramhaidar/Auto-Clipper-YouTube-Tauri/releases/download/v0.1.3/Ahmed-Clipper_0.1.3_x64-setup.exe.7z"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc1dWQkhzL21wLy9iVXJaMnZXY3E4VVB1Sm9Dcy9INjYwaWpvc0JMZmFjTDEwcFJyWGR0SUZER0taekJVVnpJeUk1aEtNL0xZYTdscS9vellrSEpxKzhjMEY0WlJuc3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDc3NDczCWZpbGU6QWhtZWQtQ2xpcHBlcl8wLjEuNF94NjQtc2V0dXAuZXhlCmdTejVCeU9UeFRBaTd5Wk84c040MHF4cWUzaVJYRmZSd1VabG1qRnE2R1c5dFRaUm9kSnE1RjlKZnlPMG9XNmRYalRsSHUrWUprQ1FRb01JUXMrSkRBPT0K",
+      "url": "https://github.com/ramhaidar/Auto-Clipper-YouTube-Tauri/releases/download/v0.1.4/Ahmed-Clipper_0.1.4_x64-setup.exe.7z"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc1dWQkhzL21wL3cyK1FYZ0xEWHh1cEwzNm80QUl5SUV4MFJlRjZKVUVsS0Nselp5bUt0eWIraExQSllPWHBjWjk3QmJFdnJZS3IzcnVBRUZodGVRQmtvSDkrUWZsRXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzkxMjg1CWZpbGU6QWhtZWQtQ2xpcHBlcl8wLjEuM19hbWQ2NC5BcHBJbWFnZQpzbmNqcDNDMVMzY1FraStINk5adXMwcTNhMW5FSVRsRjVKVlFvU2JDTDR0aGQ0L3p5SmhjdHJxZ2RGK1BQeldQcjZYeW56UVUvYmxQem1tbnhaZzFEUT09Cg==",
-      "url": "https://github.com/ramhaidar/Auto-Clipper-YouTube-Tauri/releases/download/v0.1.3/ahmed-clipper_0.1.3_amd64.AppImage.7z"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc1dWQkhzL21wLzQyMTVlSFFSeFZEOHhWeGdBM3ZIdEw4VENtR1IrQjA0RjNnSmp2K2JyZ2NLZTVMYXN1KzRGVGVtMld5YlNoVVBIc1pMUllmY1hyMHJYbExSaUg1MGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDc5NTM2CWZpbGU6QWhtZWQtQ2xpcHBlcl8wLjEuNF9hbWQ2NC5BcHBJbWFnZQp4azlaSVpsL3pZV2pBbHFSalFvdk1BNUtCMGF4RHpVUGlRZVFkL1VseG1lOXBXSCtySVUrVEhuUGZ5V3JLbXpnb1ZRRDMwZW01QXpqWndkU0RLYVNCZz09Cg==",
+      "url": "https://github.com/ramhaidar/Auto-Clipper-YouTube-Tauri/releases/download/v0.1.4/ahmed-clipper_0.1.4_amd64.AppImage.7z"
     }
   }
 }
