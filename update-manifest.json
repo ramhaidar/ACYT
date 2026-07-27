@@ -1,31 +1,31 @@
 {
-  "version": "0.2.4",
-  "notes": "Release v0.2.4",
-  "pub_date": "2026-07-25T23:58:41.412Z",
+  "version": "0.2.5",
+  "notes": "Release v0.2.5",
+  "pub_date": "2026-07-27T11:30:38.065Z",
   "platforms": {
     "windows-x86_64": {
-      "archive_url": "https://github.com/ramhaidar/ACYT/releases/download/v0.2.4/Ahmed-Clipper_0.2.4_x64-setup.exe.7z",
-      "archive_sha256": "eea409576f7aa4353e49eca4eaf1a5389d587063273413bd1a3ef60bcd70e6ae",
-      "payload": "Ahmed-Clipper_0.2.4_x64-setup.exe",
-      "payload_sha256": "fea94362c54675edaf384d2623c790fd515356537dce236839b9070d8831aaf3"
+      "archive_url": "https://github.com/ramhaidar/ACYT/releases/download/v0.2.5/Ahmed-Clipper_0.2.5_x64-setup.exe.7z",
+      "archive_sha256": "6970ddac5080db09baac270361bcdb9f163bd10fd305d46ed8c54d37c6de9817",
+      "payload": "Ahmed-Clipper_0.2.5_x64-setup.exe",
+      "payload_sha256": "158a7508f9f95244e8b0e2d8f13f8d75eae6e562ae2cb08ef858e553562f47e3"
     },
     "darwin-aarch64": {
-      "archive_url": "https://github.com/ramhaidar/ACYT/releases/download/v0.2.4/Ahmed-Clipper_0.2.4_universal.app.tar.gz.7z",
-      "archive_sha256": "1521ab3756881b91342ac2cbf78642ab808499fefd7d26ef535b257be63d5e68",
-      "payload": "Ahmed-Clipper_0.2.4_universal.app.tar.gz",
-      "payload_sha256": "14df46837fec65e7dec5396e13f181d0dc99ac4d9a9dbac32d60cd8c70723485"
+      "archive_url": "https://github.com/ramhaidar/ACYT/releases/download/v0.2.5/Ahmed-Clipper_0.2.5_universal.app.tar.gz.7z",
+      "archive_sha256": "cb388df3b1847255d143b701194b0cafa94ec78cf75f5000341fd893ac060048",
+      "payload": "Ahmed-Clipper_0.2.5_universal.app.tar.gz",
+      "payload_sha256": "f235453e8027f436468a59ee848eb49a77e22206db75c8c90a6d50ed1af125f4"
     },
     "darwin-x86_64": {
-      "archive_url": "https://github.com/ramhaidar/ACYT/releases/download/v0.2.4/Ahmed-Clipper_0.2.4_universal.app.tar.gz.7z",
-      "archive_sha256": "1521ab3756881b91342ac2cbf78642ab808499fefd7d26ef535b257be63d5e68",
-      "payload": "Ahmed-Clipper_0.2.4_universal.app.tar.gz",
-      "payload_sha256": "14df46837fec65e7dec5396e13f181d0dc99ac4d9a9dbac32d60cd8c70723485"
+      "archive_url": "https://github.com/ramhaidar/ACYT/releases/download/v0.2.5/Ahmed-Clipper_0.2.5_universal.app.tar.gz.7z",
+      "archive_sha256": "cb388df3b1847255d143b701194b0cafa94ec78cf75f5000341fd893ac060048",
+      "payload": "Ahmed-Clipper_0.2.5_universal.app.tar.gz",
+      "payload_sha256": "f235453e8027f436468a59ee848eb49a77e22206db75c8c90a6d50ed1af125f4"
     },
     "linux-x86_64": {
-      "archive_url": "https://github.com/ramhaidar/ACYT/releases/download/v0.2.4/Ahmed-Clipper_0.2.4_amd64.AppImage.7z",
-      "archive_sha256": "885a32ac6cae6e0e47d1c2d83c167d6e387f193b8a2d6002dd4198a78e1ed3a9",
-      "payload": "Ahmed-Clipper_0.2.4_amd64.AppImage",
-      "payload_sha256": "312d874295b455c0885172e9912b951edd61dd091d3ad6c839d10bb26ae90b1c"
+      "archive_url": "https://github.com/ramhaidar/ACYT/releases/download/v0.2.5/Ahmed-Clipper_0.2.5_amd64.AppImage.7z",
+      "archive_sha256": "3224aaec0f0cf28d4d22a818bb0288bf29ca69440ce81567e2c1285b2766e35d",
+      "payload": "Ahmed-Clipper_0.2.5_amd64.AppImage",
+      "payload_sha256": "6d4fec6a66ba91757f19141fb5d90621523a50885c86efdacc0bcd1dfdc79105"
     }
   }
 }
